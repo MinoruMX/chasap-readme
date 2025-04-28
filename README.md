@@ -6,8 +6,6 @@ Estás utilizando la **versión Base 1.2** de nuestra plataforma. 🎯
 Con **Chasap Base** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
 
----
-
 ## 🚀 ¿Quieres llevar tu productividad al siguiente nivel?
 
 Actualiza a **Chasap Pro** 🏆 y desbloquea ventajas exclusivas como:
